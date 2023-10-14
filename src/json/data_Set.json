@@ -1,0 +1,366 @@
+{
+    "prtg-version": "23.3.86.1520",
+    "treesize": 45,
+    "sensors": [
+        {
+            "device": "10.10.2.112",
+            "device_raw": "10.10.2.112",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.114",
+            "device_raw": "10.10.2.114",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.117",
+            "device_raw": "10.10.2.117",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.120",
+            "device_raw": "10.10.2.120",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.132",
+            "device_raw": "10.10.2.132",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.141",
+            "device_raw": "10.10.2.141",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.149",
+            "device_raw": "10.10.2.149",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.152",
+            "device_raw": "10.10.2.152",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.153",
+            "device_raw": "10.10.2.153",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.157",
+            "device_raw": "10.10.2.157",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.159",
+            "device_raw": "10.10.2.159",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.16",
+            "device_raw": "10.10.2.16",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.168",
+            "device_raw": "10.10.2.168",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.173",
+            "device_raw": "10.10.2.173",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.175",
+            "device_raw": "10.10.2.175",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.177",
+            "device_raw": "10.10.2.177",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.184",
+            "device_raw": "10.10.2.184",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.185",
+            "device_raw": "10.10.2.185",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.196",
+            "device_raw": "10.10.2.196",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.219",
+            "device_raw": "10.10.2.219",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.220",
+            "device_raw": "10.10.2.220",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.25",
+            "device_raw": "10.10.2.25",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.28",
+            "device_raw": "10.10.2.28",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.36",
+            "device_raw": "10.10.2.36",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.73",
+            "device_raw": "10.10.2.73",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "10.10.2.9",
+            "device_raw": "10.10.2.9",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "10.10.2.98",
+            "device_raw": "10.10.2.98",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "DNS: 8.8.8.8",
+            "device_raw": "DNS: 8.8.8.8",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "DNS: 8.8.8.8",
+            "device_raw": "DNS: 8.8.8.8",
+            "sensor": "SSL Security Check (Port 443)",
+            "sensor_raw": "SSL Security Check (Port 443)",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "DNS: 8.8.8.8",
+            "device_raw": "DNS: 8.8.8.8",
+            "sensor": "SSL Certificate Sensor (Port 443)",
+            "sensor_raw": "SSL Certificate Sensor (Port 443)",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "DNS: 8.8.8.8",
+            "device_raw": "DNS: 8.8.8.8",
+            "sensor": "HTTPS",
+            "sensor_raw": "HTTPS",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "DNS: 8.8.8.8",
+            "device_raw": "DNS: 8.8.8.8",
+            "sensor": "DNS v2",
+            "sensor_raw": "DNS v2",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "Gateway/DHCP: 10.10.7.254",
+            "device_raw": "Gateway/DHCP: 10.10.7.254",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "Internet",
+            "device_raw": "Internet",
+            "sensor": "HTTP",
+            "sensor_raw": "HTTP",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "MAC-4CCE88",
+            "device_raw": "MAC-4CCE88",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "MACBOOKAIR-7288",
+            "device_raw": "MACBOOKAIR-7288",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "MACBOOKAIR-E996",
+            "device_raw": "MACBOOKAIR-E996",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "Nwery",
+            "device_raw": "Nwery",
+            "sensor": "Ping",
+            "sensor_raw": "Ping",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "Nwery",
+            "device_raw": "Nwery",
+            "sensor": "HTTP",
+            "sensor_raw": "HTTP",
+            "status": "Down",
+            "status_raw": 5
+        },
+        {
+            "device": "Probe Device",
+            "device_raw": "Probe Device",
+            "sensor": "System Health",
+            "sensor_raw": "System Health",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "Probe Device",
+            "device_raw": "Probe Device",
+            "sensor": "Core Health",
+            "sensor_raw": "Core Health",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "Probe Device",
+            "device_raw": "Probe Device",
+            "sensor": "Probe Health",
+            "sensor_raw": "Probe Health",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "Probe Device",
+            "device_raw": "Probe Device",
+            "sensor": "Disk Free",
+            "sensor_raw": "Disk Free",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "Probe Device",
+            "device_raw": "Probe Device",
+            "sensor": "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
+            "sensor_raw": "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
+            "status": "Up",
+            "status_raw": 3
+        },
+        {
+            "device": "PRTG Core Server",
+            "device_raw": "PRTG Core Server",
+            "sensor": "Core Health (Autonomous)",
+            "sensor_raw": "Core Health (Autonomous)",
+            "status": "Up",
+            "status_raw": 3
+        }
+    ]
+}
